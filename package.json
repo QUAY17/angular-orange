@@ -1,18 +1,18 @@
 {
-"name": "angular2-example",
+"name": "angular-orange",
   "version": "1.0.0",
   "license": "Apache-2.0",
   "author": {
-    "name": "Dylan McDonald",
-    "email": "dmcdonald21@cnm.edu",
-    "url": "https://bootcamp-coders.cnm.edu/~dmcdonald21/angular2-example"
+    "name": "Jennifer Minnich",
+    "email": "jminnich@cnm.edu",
+    "url": "https://bootcamp-coders.cnm.edu/~jminnich/angular2-orange"
   },
   "scripts": {
     "build": "rimraf public_html/dist && tsc && webpack --config webpack/webpack.live.js --progress --profile --bail"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dylan-mcdonald/angular2-example.git"
+    "url": "https://github.com/quay17/angular-orange.git"
   },
   "dependencies": {
     "@angular/common": "~2.4.0",
